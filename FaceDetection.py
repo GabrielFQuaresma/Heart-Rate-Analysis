@@ -188,4 +188,4 @@ def heart_rate_analysis(desired_fps=30):
         # print(f"Batimentos por Minuto (BPM): {bpm:.0f}")
 
 if __name__ == "__main__":
-    record() 
+    heart_rate_analysis() 
